@@ -1,1 +1,1 @@
-See notebook in nbviewer [here](https://raw.githubusercontent.com/herrfz/rt_benchmark/master/beaglebone_rt_latency.ipynb).
+See notebook in nbviewer [here](http://nbviewer.ipython.org/github/herrfz/rt_benchmark/blob/master/beaglebone_rt_latency.ipynb).
